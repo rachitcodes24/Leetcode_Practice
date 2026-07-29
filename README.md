@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
