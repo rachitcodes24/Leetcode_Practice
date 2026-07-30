@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
