@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
@@ -66,8 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
