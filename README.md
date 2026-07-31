@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
@@ -106,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
