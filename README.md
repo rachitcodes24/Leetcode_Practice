@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
 | ------- |
