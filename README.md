@@ -123,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
