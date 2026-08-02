@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0168-excel-sheet-column-title) |
+| [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
+| [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
