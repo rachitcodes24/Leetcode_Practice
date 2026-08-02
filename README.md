@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0183-customers-who-never-order) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
