@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [3310-remove-methods-from-project](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -170,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
