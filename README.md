@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3310-remove-methods-from-project) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Enumeration
 |  |
 | ------- |
@@ -196,4 +198,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
