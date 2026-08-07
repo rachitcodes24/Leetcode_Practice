@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1009-complement-of-base-10-integer) |
 ## Linked List
 |  |
 | ------- |
