@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
@@ -171,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
@@ -210,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
