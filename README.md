@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0191-number-of-1-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1009-complement-of-base-10-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
