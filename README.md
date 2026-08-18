@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Math
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Greedy
