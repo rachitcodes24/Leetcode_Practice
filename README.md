@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0258-add-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0258-add-digits) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
