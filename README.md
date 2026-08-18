@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1140-stone-game-ii) |
