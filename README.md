@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3731-find-missing-elements) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
