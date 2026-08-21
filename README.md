@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0231-power-of-two) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -275,4 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0225-implement-stack-using-queues) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/rachitcodes24/Leetcode_Practice/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
